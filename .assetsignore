@@ -1,0 +1,3 @@
+# Only publish the standalone app. Add future public assets explicitly.
+*
+!index.html
